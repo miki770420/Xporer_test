@@ -72,6 +72,8 @@ gem 'kaminari'
 # gem for autocomplete
 gem 'selectize-rails'
 
+gem 'will_paginate', '~> 3.1.0'
+
 group :production do
   # for heroku deploy
   # gem 'pg'
